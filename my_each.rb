@@ -11,4 +11,3 @@ def my_each(array) # put argument(s) here
     "BLock empty"
   end
 end
-
